@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="WareHouse" targetName="WareHouse" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6265eff2-1d55-4a5e-a281-1169c455d19c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+    <option name="clangWarnings" value="-Wno-unused-variable,-Werror=implicit-function-declaration,-Wno-shadow-field-in-constructor-modified,-Wno-shadow-ivar,-Wno-shadow" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1TbWJhlgqIVvbCGvDbDZM2QJsuy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../String" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aliss\Desktop\CLionProjects\C++\WareHouse" />
+      <recent name="C:\Users\aliss\Desktop\CLionProjects\C++\WareHouse\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WareHouse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WareHouse" TARGET_NAME="WareHouse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="WareHouse" RUN_TARGET_NAME="WareHouse">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6265eff2-1d55-4a5e-a281-1169c455d19c" name="Default Changelist" comment="" />
+      <created>1573729205367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573729205367</updated>
+      <workItem from="1573729208762" duration="118000" />
+      <workItem from="1573729328574" duration="281000" />
+      <workItem from="1573729693221" duration="345000" />
+      <workItem from="1573802132377" duration="5075000" />
+      <workItem from="1573808863733" duration="225000" />
+      <workItem from="1573813752304" duration="2683000" />
+      <workItem from="1573816666170" duration="10042000" />
+      <workItem from="1573826876117" duration="4854000" />
+      <workItem from="1573831738480" duration="1678000" />
+      <workItem from="1573888077158" duration="1418000" />
+      <workItem from="1573889499808" duration="1001000" />
+      <workItem from="1573890503467" duration="2052000" />
+      <workItem from="1573892558858" duration="7475000" />
+      <workItem from="1573900041454" duration="406000" />
+      <workItem from="1573900449867" duration="2946000" />
+      <workItem from="1573903400415" duration="647000" />
+      <workItem from="1573904050446" duration="8000000" />
+      <workItem from="1573913653216" duration="2437000" />
+      <workItem from="1573916095015" duration="3058000" />
+      <workItem from="1574106193992" duration="891000" />
+      <workItem from="1574109014420" duration="424000" />
+      <workItem from="1575126370145" duration="1908000" />
+      <workItem from="1575144425122" duration="182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="sourceFile" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

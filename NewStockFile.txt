@@ -1,0 +1,5 @@
+100		Couch C		31		75		350		5		7		10850		0		Order 75 immediately.		
+101		Stool B		50		150		33.95		12		3		1697.5		0		Order 150 immediately.		
+102		Cabinet D	77		100		160.5		3		21		12358.5		2		Order 100 in 2 Days.		
+103		Chair B		4		90		175		7		8		700		0		Order 90 immediately.		
+104		Table A		28		120		99.95		5		12		2798.6		0		Order 120 immediately.		
